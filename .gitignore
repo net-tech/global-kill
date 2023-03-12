@@ -117,3 +117,8 @@ dist
 
 # Compiled code
 lib/
+
+# Other
+.dccache
+.env
+.DS_Store
