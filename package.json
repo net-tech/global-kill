@@ -44,8 +44,8 @@
 	"homepage": "https://github.com/net-tech/global-kill#readme",
 	"devDependencies": {
 		"@ryansonshine/cz-conventional-changelog": "^3.3.4",
-		"@types/jest": "^29.0.0",
-		"@types/node": "^18.13.0",
+		"@types/jest": "^29.5.0",
+		"@types/node": "^18.15.3",
 		"@typescript-eslint/eslint-plugin": "^5.52.0",
 		"@typescript-eslint/parser": "^5.52.0",
 		"conventional-changelog-conventionalcommits": "^5.0.0",
